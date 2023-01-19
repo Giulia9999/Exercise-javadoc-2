@@ -1,5 +1,9 @@
 package it.develhope.javadoc2;
 
+/**
+ * This class represents arithmetic operators
+ * @author Giulia
+ */
 public class ArithmeticOperators {
     public int sum(int sum1, int sum2){
         int sum = sum1 + sum2;

@@ -1,5 +1,9 @@
 package it.develhope.javadoc2;
 
+/**
+ * This is a tester class
+ * @author Giulia
+ */
 public class Start {
     public static void main(String[] args) {
         ArithmeticOperators arithmeticOperators = new ArithmeticOperators();
